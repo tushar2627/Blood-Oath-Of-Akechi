@@ -32,7 +32,7 @@
 ## 🚀 How to Run (For Developers)
 If you're a developer or contributor interested in exploring the project:
 1. **Download or Clone the Repository**: You can download the project as a ZIP file or clone it using Git.
-2. **Here is the Repository link*** [Repository]()
+2. **Here is the Repository link*** [Repository](https://github.com/tushar2627/Blood-Oath-Of-Akechi/releases/tag/v0.1)
 3. **Open in Unity**: Open the project in **Unity 2021.3 LTS** or a newer version.
 4. **Run the Game in the Editor**: Go to the `Scenes/DeadLand` folder (or any active scene) and open it.
 5. Press **Play** in Unity to preview the game.
