@@ -78,6 +78,18 @@ More combat depth, story elements, and polish are being added continuously.
   <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%201.png" alt="Ludo Legends 4 Player" width="800" />
 </p>
 
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%202.png" alt="Ludo Legends 4 Player" width="800" />
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%203.png" alt="Ludo Legends 4 Player" width="800" />
+</p>
+
+
+
 ---
 
 ## 🔮 Future Scope
