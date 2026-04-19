@@ -74,7 +74,9 @@ More combat depth, story elements, and polish are being added continuously.
 
 ## 📸 Screenshots
 
-*(Add your gameplay screenshots here like you did in Ludo Legends)*
+<p align="center">
+  <img src="https://github.com/tushar2627/LudoLegends/blob/757a0ab1d7db9fa0af52bb1e5097a366d970284f/4%20Player.jpg" alt="Ludo Legends 4 Player" width="200" height="380" />
+</p>
 
 ---
 
