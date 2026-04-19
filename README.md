@@ -80,40 +80,48 @@ More combat depth, story elements, and polish are being added continuously.
 
 
 <p align="center">
-  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%202.png" alt="Ludo Legends 4 Player" width="800" />
+  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%202.png" width="800" />
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%203.png" alt="Ludo Legends 4 Player" width="800" />
+  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%203.png" width="800" />
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%203.png" alt="Ludo Legends 4 Player" width="800" />
+  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%204.png" width="800" />
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%203.png" alt="Ludo Legends 4 Player" width="800" />
+  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%205.png" width="800" />
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%203.png" alt="Ludo Legends 4 Player" width="800" />
+  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%206.png"  width="800" />
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%203.png" alt="Ludo Legends 4 Player" width="800" />
+  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%207.png" width="800" />
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%203.png" alt="Ludo Legends 4 Player" width="800" />
+  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%208.png"  width="800" />
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%209.png"  width="800" />
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/tushar2627/Blood-Oath-Of-Akechi/blob/main/BOA%2010.png"  width="800" />
+</p>
 
 ---
 
