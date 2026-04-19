@@ -1,80 +1,122 @@
-# 🗡️ Blood Oath of Akechi Hidemitsu
+# ⚔️ Blood Oath of Akechi Hidemitsu
 
-"**Blood Oath of Akechi Hidemitsu**" is a 2D action-adventure game currently in development. Set in a dark, samurai-themed world, you play as Akechi Hidemitsu, a warrior seeking vengeance and redemption. Navigate the eerie **Dead Land**, solve challenging puzzles, battle enemies, and uncover the truth behind the sinister world.
+**Blood Oath of Akechi Hidemitsu** is a dark, story-driven 2D action-adventure game built in Unity, inspired by the emotional depth and combat intensity of **Sekiro** and **Ghost of Tsushima**.
 
----
+You step into the role of **Akechi Hidemitsu** — a fallen warrior bound by vengeance, walking through a cursed land where death is not the end… and the past refuses to stay buried.
 
-## 🎮 Features (Planned)
-- **Sword Combat**: Engage in intense, skill-based sword fighting against enemies.
-- **Puzzle Mechanics**: Solve intricate puzzles involving fire and shadow to progress.
-- **Atmospheric Horror Elements**: Experience a tense atmosphere with dynamic lighting, sound effects, and a chilling environment.
-- **Parallax Scrolling**: Immersive parallax scrolling backgrounds to enhance the 2D world.
-- **Environmental Effects**: Interact with the environment, such as turning water red to create a more terrifying effect.
-- **Grave Tombstones & Skulls**: The game will feature skulls, grave tombstones, and other horror-themed sprites.
+Enter the haunting world of **Dead Land**, where every step forward reveals a deeper truth — and every enemy tests your resolve.
 
 ---
 
-## 🕹️ Controls (To be updated)
-- **Movement**: Arrow keys / WASD
-- **Attack**: Left Click (in combat)
-- **Jump**: Spacebar
-- **Interact**: E (for puzzles and environmental interactions)
-- **Special Actions**: (Will be added later, such as combo moves or powers)
+## 🧩 Core Features
+
+✅ **2D Samurai Combat System**  
+Precision-based sword combat with responsive controls and impactful feedback.
+
+✅ **Enemy AI System**  
+Battle against skeletal warriors wielding swords and spears, each requiring timing and strategy.
+
+✅ **Dark Atmospheric World – “Dead Land”**  
+A cursed battlefield filled with graves, skulls, fog, and eerie silence.
+
+✅ **Fire & Shadow Puzzle Mechanics**  
+Solve environmental puzzles that challenge both logic and observation.
+
+✅ **Dynamic Environmental Interactions**  
+- Water turns **blood-red** when the player enters  
+- Interactive elements enhance immersion and horror
+
+✅ **Animated Torch System**  
+Separate static and animated components for realistic flame movement.
+
+✅ **Parallax Scrolling System**  
+Multi-layered background depth for a rich and immersive 2D experience.
 
 ---
 
-## 📱 Platform (Planned)
-- **Developed with Unity 2D**
-- Planned for **Android** and **PC** (future builds)
+## 🎮 Controls
+
+- **Movement** → `WASD / Arrow Keys`  
+- **Jump** → `Spacebar`  
+- **Attack** → `Left Click`  
+- **Interact** → `E`  
+- **Advanced Combat / Abilities** → *(Coming Soon)*
+
+---
+
+## 🌌 Current Development Status
+
+🚧 **Work in Progress**  
+
+The game is actively being developed, with core systems and environment already in place.  
+More combat depth, story elements, and polish are being added continuously.
+
+---
+
+## 📱 Platform
+
+- 🎮 **Engine:** Unity 2021 / 2022  
+- 🖥️ **Platform:** PC (Editor)  
+- 📲 **Planned:** Android & PC Builds  
 
 ---
 
 ## 🚀 How to Run (For Developers)
-If you're a developer or contributor interested in exploring the project:
-1. **Download or Clone the Repository**: You can download the project as a ZIP file or clone it using Git.
-2. **Here is the Repository link**: [Repository](https://github.com/tushar2627/Blood-Oath-Of-Akechi/releases/tag/v0.1)
-3. **Open in Unity**: Open the project in **Unity 2021.3 LTS** or a newer version.
-4. **Run the Game in the Editor**: Go to the `Scenes/DeadLand` folder (or any active scene) and open it.
-5. Press **Play** in Unity to preview the game.
 
-   **Note**: The game is still in development, so not all features or mechanics will be available yet.
+1. Clone or download the repository  
+2. Open the project in **Unity 2021.3 LTS** or newer  
+3. Open the scene: `Scenes/DeadLand`  
+4. Press **Play** in Unity  
 
----
-
-## 📦 Downloads
-- **No APK or PC Builds Available Yet**: The game is still in development, and builds for **Android** and **PC** will be uploaded once completed.
-- **Unity Project Files**: You can download the full project files from this repository to explore the game in progress.
+> ⚠️ Note: This project is under development. Some features may be incomplete or experimental.
 
 ---
 
-## 🔮 Future Features
-While the game is still a work in progress, here are some of the key features planned for future releases:
+## 📸 Screenshots
 
-### Gameplay
-- **Combat Mechanics**: Add advanced sword-fighting mechanics, combos, and different enemy types.
-- **AI Enemies**: Implement AI for skeletons, other monsters, and NPCs.
-- **Environmental Puzzles**: Solve puzzles involving elements like fire, shadow, and water to unlock new areas.
-- **World Interactions**: The environment will react to player actions (e.g., turning water red when the player enters it for a horror effect).
-  
-### Visuals & Art
-- **Improved Lighting**: Dynamic lighting and shadows to create a more atmospheric experience.
-- **Parallax Scrolling**: Enhance the parallax background and ground effects.
-- **Horror Themes**: More assets like skulls, tombstones, and eerie objects to enhance the horror vibe.
-
-### Audio
-- **Sound Effects**: Add sound effects for combat, footsteps, puzzles, and environmental interactions.
-- **Background Music**: Add atmospheric background music to complement the horror theme.
-- **Voice Acting**: If possible, include voice acting for key characters to add depth to the story.
+*(Add your gameplay screenshots here like you did in Ludo Legends)*
 
 ---
 
-## 🛠️ How to Contribute
-Feel free to contribute if you’d like to help develop the game! Here’s how:
-1. **Fork the Repository**: Click the "Fork" button at the top right to create a copy of the repository under your own GitHub account.
-2. **Make Changes**: Clone your fork and make changes on your local machine.
-3. **Create Pull Requests**: Once your changes are ready, create a pull request to propose the changes to the main repository.
-   
+## 🔮 Future Scope
+
+### ⚔️ Gameplay
+- Advanced combat system with combos and abilities  
+- More enemy types and smarter AI  
+- Boss fights with unique mechanics  
+
+### 🌑 Visuals
+- Enhanced lighting and shadow system  
+- Improved parallax depth  
+- Expanded horror-themed assets  
+
+### 🔊 Audio
+- Combat and environmental sound effects  
+- Atmospheric background music  
+- Voice acting for key characters  
+
+---
+
+## ❤️ Credits
+
+- Developed by: [Tushar Saxena](https://github.com/tushar2627)  
+- Game Engine: Unity  
+- Inspiration: Sekiro, Ghost of Tsushima  
+- Assets: Custom + Public Domain  
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub and sharing it!
+
 ---
 
 ## 📩 Contact
-Feel free to reach out for feedback, collaborations, or just to connect
+
+📧 Email: saxenatushar301@gmail.com  
+🐙 GitHub: https://github.com/tushar2627  
+
+---
+
+**“A warrior’s oath is written in blood… and fulfilled in silence.”** ⚔️
